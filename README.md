@@ -1,2 +1,2 @@
-# girder
+# veranda
 Javascript Library
